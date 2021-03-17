@@ -373,6 +373,8 @@ img {
     justify-content: space-between;
     height: 5rem;
     align-items: center; }
+    #main-footer .footer-content a {
+      color: #f4f4f4; }
     #main-footer .footer-content .social .fab {
       margin-right: 1rem;
       border: 2px #fff solid;
